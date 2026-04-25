@@ -7,8 +7,8 @@ This repository contains my **from-scratch implementations of core Data Structur
 ## 📌 Topics Covered
 
 * Arrays
-* Sorting Algorithms
 * Strings
+* Sorting Algorithms
 * Recursion
 * Divide & Conquer
 * Time & Space Complexity
