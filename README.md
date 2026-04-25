@@ -1,4 +1,4 @@
-# dsa-implementation-java 🚀
+# Implementations of DSA in JAVA 🚀
 
 This repository contains my **from-scratch implementations of core Data Structures and Algorithms in Java**, focusing on building deep conceptual clarity and coding discipline.
 
