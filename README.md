@@ -77,6 +77,6 @@ Topic Name/
 
 ## 🎯 Goal
 
-To build **deep understanding of DSA internals**, enabling better problem-solving, optimization skills, and interview performance.
+To build **deep understanding of DSA internals**, enabling better problem-solving, optimization skills, and interview level performance.
 
 ---
