@@ -31,7 +31,7 @@ This repository contains my **from-scratch implementations of core Data Structur
 
 ## 🎯 Learning Approach
 
-### I follow a **fundamental-first implementation strategy**:
+### I am following a **fundamental-first implementation strategy**:
 
 * ⚙️ Implementing **data structures from scratch**
 * 🧠 Understanding **internal working and logic deeply**
