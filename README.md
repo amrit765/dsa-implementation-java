@@ -51,6 +51,10 @@ Topic Name/
 
 ├── variations/
 
+├── examples/
+
+├── problems/
+
 ├── notes/
 
 └── README.md
